@@ -1,0 +1,16 @@
+var
+GPSLocation = 'Amsterdam Sloterdijk',
+CurrentWeather = 'Sunny',
+CurrentTemperature = 10,
+Wind = 13,
+PrecipitationChance = 15,
+Humidity = 86,
+Maintenance = false,
+Name = 'Maurice',
+LastName = 'de Jong',
+Age = 18,
+DayOfBirth = 09,
+MonthOfBirth = 03,
+YearOfBirth = 1999,
+Student = true,
+StudentOV = true;
