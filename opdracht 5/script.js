@@ -14,20 +14,3 @@ MonthOfBirth = 04,
 YearOfBirth = 2000,
 Student = false,
 StudentOV = false;
-
-
-console.log(typeof GPSLocation);
-console.log(typeof CurrentWeather);
-console.log(typeof CurrentTemperature);
-console.log(typeof Wind);
-console.log(typeof PrecipitationChance);
-console.log(typeof Humidity);
-console.log(typeof Maintenance);
-console.log(typeof firstName);
-console.log(typeof lastName);
-console.log(typeof Age);
-console.log(typeof DayOfBirth);
-console.log(typeof MonthOfBirth);
-console.log(typeof YearOfBirth);
-console.log(typeof Student);
-console.log(typeof StudentOV);
